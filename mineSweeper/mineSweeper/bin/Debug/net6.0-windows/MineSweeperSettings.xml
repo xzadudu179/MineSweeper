@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <vars buttonSize="35" height="25" width="40" buttonSpace="0" minesCount="55" isErrorInputMessageShow="False" />
+  <checks isErrorMessageShowBox="False" />
+</root>

@@ -1,0 +1,5 @@
+F:\179\projects\写的应用\MineSweeper\mineSweeper.exe
+F:\179\projects\写的应用\MineSweeper\mineSweeper.dll
+F:\179\projects\写的应用\MineSweeper\mineSweeper.deps.json
+F:\179\projects\写的应用\MineSweeper\mineSweeper.runtimeconfig.json
+F:\179\projects\写的应用\MineSweeper\mineSweeper.pdb
